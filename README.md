@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on something big (Huge NLP Project)
+
 🌱 I’m currently learning Fast API
