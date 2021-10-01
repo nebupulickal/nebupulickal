@@ -1,4 +1,4 @@
-### Hi there 👋
+### Huy there 👋
 
 <!--
 **nebupulickal/nebupulickal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Python Developer with expertise in ML and DL models, Django, Flask, FastAPI etc. I'm from kerala, India. 
+
 🔭 I’m currently working on something big (Huge NLP Project)
 
-🌱 I’m currently learning Fast API
+
