@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Python Developer with expertise in ML and DL models, Django, Flask, FastAPI etc. I'm from kerala, India. 
+I am a Python Developer with expertise in ML and DL models and deployment of these models with Django, Flask, FastAPI etc. I'm from kerala, India. 
 
 🔭 I’m currently working on something big (Huge NLP Project)
 
