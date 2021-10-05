@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I am a Python Developer with expertise in ML and DL models and deployment with Django, Flask, FastAPI etc. I'm from kerala, India. 
 
+
 🔭 I’m currently working on something big (Huge NLP Project)
 
 
